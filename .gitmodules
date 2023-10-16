@@ -1,0 +1,6 @@
+[submodule "repo_back_actividadesSubmodulos"]
+	path = repo_back_actividadesSubmodulos
+	url = https://github.com/sandraibanez/repo_back_actividadesSubmodulos.git
+[submodule "repo_front_actividadSubmodulos"]
+	path = repo_front_actividadSubmodulos
+	url = https://github.com/sandraibanez/repo_front_actividadSubmodulos.git
